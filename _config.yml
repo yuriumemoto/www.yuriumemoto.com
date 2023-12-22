@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: nicemusic
-email: desk@umemoto.org
+title: Nice Music
+email: niceeeemusic@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  nice music guys
-  based on Tokyo.
+  a music collective based in Tokyo and internet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nicemusic.ipv6.jp" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 7m4gmh
+twitter_username: niceemusic
+instagram_username: niceeemusic
 
 # Build settings
 theme: minima
