@@ -5,7 +5,9 @@
 layout: home
 ---
 
-<h1> nicemusic </h1>
+<img src="/pics/nmlogo_middle.png" width="20%">
+
+<h1> Nice Music </h1>
  
 <marquee scrollamount="7" direction="right">
 <strong>nicemusic.ipv6.jp のページへようこそ！</strong></marquee>
