@@ -1,4 +1,4 @@
-<h1> nicemusic </h1>
+<h1> Nice Music </h1>
  
 <marquee scrollamount="7" direction="right">
 <strong>nicemusic.ipv6.jp のページへようこそ！</strong></marquee>
