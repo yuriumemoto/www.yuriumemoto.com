@@ -10,7 +10,7 @@ permalink: /about/
  
 Composer born in Tokyo in 2002, debuted in 2018. He has worked with prominent performers of contemporary music in Japan and abroad, creating works that connect Western music and Japanese subcultures. His collaborative works include the orchestral piece "Oo./x" with composer Akiko Yamane, a collaboration with graphic artist Lee Kan kyo, and a new piece developed in collaboration with Yamaha Corporation. In 2023, he worked on an official arrangement of Ryuichi Sakamoto's work for a Japanese TV program.
  
-He has been Born Creative Festival (2019, Tokyo Metropolitan Theater), BBC Proms Young Composer (2020) Endless Imaginary (2021, Rhizomatiks), Tokyo Music Evening Yube (2021), Sendai Classic Festival (2021), Spring Festival in Tokyo (2022), Kanagawa Prefectural Music Hall project, BtoC (Tokyo Opera City Cultural Foundation) Among others performed at many festivals and events.
+He has been Born Creative Festival (2019, Tokyo Metropolitan Theater), BBC Proms Young Composer (2020)[^bbc], Endless Imaginary (2021, Rhizomatiks), Tokyo Music Evening Yube (2021), Sendai Classic Festival (2021), Spring Festival in Tokyo (2022), Kanagawa Prefectural Music Hall project, BtoC (Tokyo Opera City Cultural Foundation) Among others performed at many festivals and events.
  
 Also, His works have been broadcast on NHK (Japan Broadcasting Corporation), TV Asahi, and other radio and TV. In 2023, he composed the music for the pays des fées 2024 S/S collection fashion show at Tokyo Fashion Week.
 He graduated from 'Tokyo College of Music High School' and is currently a student at 'Aichi Prefectural University of Fine Arts and Music' (composition).
@@ -39,12 +39,16 @@ Events：
  
 作曲家、音楽家。2002年、東京生まれ。2018年にデビュー。国内外の演奏家、音楽家、アーティストと共に活動を行い、西洋クラシック音楽の文脈に日本のサブカルチャーを吸収した表現活動を展開している。作曲家、山根明季子との共同制作によるオーケストラ作品「Oo./x」の発表や、グラフィックアーティスト、Lee Kan Kyoとの共同制作、ヤマハ株式会社との共同開発による新作の発表、「題名のない音楽会」（テレビ朝日）での坂本龍一作品の公式編曲作業、pays des fées 2024 S/S（東京コレクション）でのファッションショー音楽の制作など、コラボレーションにも積極的である。
  
-これまでの発表・出演歴に、ボンクリフェス（東京芸術劇場）、BBCプロムス・ヤングコンポーザー（英国放送協会）、Endless Imaginary（ライゾマティクス）、Tokyo Music Evening Yube（豊島区）、仙台クラシックフェスティバル、東京・春・音楽祭、神奈川県立音楽堂・ワークインプログレス、箱根おんがくの森（箱根湖尻アートビレッジ）、NHK-FM（現代の音楽）、BtoC（東京オペラシティ文化財団）など。2022年には初の個展「電話音楽」を、2023年には「ゴシック・アンド・ロリータ」（mumyo）を東京にて開催。 を担当した。
+これまでの発表・出演歴に、ボンクリフェス（東京芸術劇場）、BBCプロムス・ヤングコンポーザー（英国放送協会）[^bbc]、Endless Imaginary（ライゾマティクス）、Tokyo Music Evening Yube（豊島区）、仙台クラシックフェスティバル、東京・春・音楽祭、神奈川県立音楽堂・ワークインプログレス、箱根おんがくの森（箱根湖尻アートビレッジ）、NHK-FM（現代の音楽）、BtoC（田原綾子、東京オペラシティ文化財団[^b2c]）など。2022年には初の個展「電話音楽」を、2023年には「ゴシック・アンド・ロリータ」（mumyo）を東京にて開催。 を担当した。
  
-東京音楽大学付属高等学校を経て、現在、愛知県立芸術大学（作曲）に在学。クマ財団7期生。
+東京音楽大学付属高等学校を経て、現在、愛知県立芸術大学（作曲）に在学。クマ財団7期生[^kuma]。
 2022年、山根明季子、成田達輝とともにアーティスト集団「mumyo」を設立。合同会社無名代表。
 （2023年8月現在） 
- 
+
+[^kuma]: https://kuma-foundation.org/student/yuri-umemoto/
+[^b2c]: https://www.operacity.jp/concert/calendar/detail.php?id=15719
+[^bbc]: https://www.bbc.co.uk/programmes/p08tvn82
+
 ### 略歴：
 - 2019年　ボンクリフェス（東京芸術劇場）
 - 2019年　ACOUSTICLUB Vol.4（Tokyo Media Interaction）
